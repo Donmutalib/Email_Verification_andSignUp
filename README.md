@@ -1,7 +1,4 @@
 # Email_Verification_andSignUp
-Email verification is used to ensure whether the provided email corresponds to an existing user. 
-
-Clone this project to follow along
 
 Explanation: 
 App.js contains the routes including the route to generate tokens and send an email.
